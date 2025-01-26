@@ -1,2 +1,0 @@
-# scientific-calculator
-scientific-calculator
